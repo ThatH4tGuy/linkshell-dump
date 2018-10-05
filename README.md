@@ -8,8 +8,8 @@ blame me if stuff breaks or you get banned from FFXIV for using it.
 ### What it is
 **linkshell-dump** queries the FFXIV Lodestone server to search and dump link shells.
 Consider it more as a proof-of-concept then a finished tool. Also keep in mind
-that excessive searches can cause some strees to the Lodestone servers which 
-SE probably won't appreciate. So be careful and don't overuse it. The more specific
+that excessive searches can cause some serious stress to the Lodestone servers which 
+SE probably won't appreciate. So be sane and don't overuse it. The more specific
 your search term is, the less stress it causes for the server.
 
 ### Installation
