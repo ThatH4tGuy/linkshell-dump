@@ -15,7 +15,7 @@ your search term is, the less stress it causes for the server.
 ### Installation
 You will need [node.js](https://nodejs.com) to run the script.
 After cloning the repository run `npm install` from the project root to download the
-dependencies. Then run it with "npm start {your searchterm}". This will create a log 
+dependencies. Then run it with `npm start {your searchterm}`". This will create a log 
 file and a CSV with the name specified in the code.
 
 
